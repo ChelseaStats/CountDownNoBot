@@ -2,6 +2,6 @@
 > Countdown numbers game twitter bot
 
 
-+ Receives email from Joe's [CountDown Emailer](https://github.com/JoeTheAverage/Countdown-Emailer) 
++ Receives email from the [CountDown Emailer](https://github.com/CountdownRocks/Countdown-Emailer) 
 + Then tweet the content through @CountDownNoBot
 
